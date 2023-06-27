@@ -1,0 +1,73 @@
+p
+{ 
+    color: rgb(237, 17, 105);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+      
+}
+.ma-classe {
+    color: #663399;
+}
+
+.monimage{
+    width: 200px;
+}
+.ma-classe {
+    color: #663399;
+}
+
+
+.grand-texte {
+    font-size: 30px;
+}
+    /* Indiquez les propriétés CSS ici */
+
+
+.important 
+{
+    color: #aa0642;
+}
+
+h1 {
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+    color: #ed3db0;
+    background-image: url("images/ciel.jpg");
+    background-attachment: fixed;
+    opacity: 0.5;
+    background: linear-gradient(90deg, #8360c3, #2ebf91);
+  }
+
+  a {
+  color: rgb(215, 37, 114);
+  text-decoration: none;
+}
+
+em {
+  color: #a5b4fc;
+  font-style: normal;
+}
+
+body {
+    background-color:rgb(192, 225, 225) 
+
+}h2 {
+    color: #f9f8ff;
+  }
+  
+  p,
+  li {
+    font-size: 1.1em;
+    color: #f9f8ff;
+  }
+  
+  .entete,
+  .pied-de-page {
+    background-color: white;
+  }
+  
+  .cta {
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
+  }
